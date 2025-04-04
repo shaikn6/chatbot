@@ -1,0 +1,221 @@
+{
+    "records": {
+        "1": {
+            "name": "nagizaaz shaik",
+            "gender": "male",
+            "height": 175.0,
+            "weight": 70.0,
+            "bmi": 22.86,
+            "goal": "Muscle Gain",
+            "diet": "both",
+            "health_conditions": "no",
+            "progress_history": [
+                {
+                    "timestamp": "2025-02-28 22:21:54",
+                    "weight": 69.0,
+                    "bmi": 22.53
+                },
+                {
+                    "timestamp": "2025-02-28 22:53:00",
+                    "old_weight": 75.0,
+                    "new_weight": 70.0,
+                    "old_bmi": 24.49,
+                    "new_bmi": 22.86
+                }
+            ],
+            "health_status": "Healthy"
+        },
+        "2": {
+            "name": "darshan jigala",
+            "gender": "male",
+            "height": 180.0,
+            "weight": 70.0,
+            "bmi": 21.6,
+            "goal": "Muscle Gain",
+            "diet": "both",
+            "health_conditions": "no"
+        },
+        "3": {
+            "name": "neelima botla",
+            "gender": "female",
+            "height": 160.0,
+            "weight": 75.0,
+            "bmi": 29.3,
+            "goal": "Weight Loss",
+            "diet": "both",
+            "health_conditions": "no"
+        },
+        "4": {
+            "name": "Nikhil reddy",
+            "gender": "Male",
+            "height": 160.0,
+            "weight": 85.0,
+            "bmi": 33.2,
+            "goal": "Weight Loss",
+            "diet": "Both",
+            "health_conditions": "None",
+            "health_status": "Unhealthy",
+            "progress_history": []
+        },
+        "5": {
+            "name": "Nikita anakala",
+            "gender": "Female",
+            "height": 160.0,
+            "weight": 75.0,
+            "bmi": 29.3,
+            "goal": "Weight Loss",
+            "diet": "Both",
+            "health_conditions": "None",
+            "health_status": "Unhealthy",
+            "progress_history": [],
+            "food_preferences": []
+        },
+        "6": {
+            "name": "hi bye",
+            "gender": "other",
+            "height": 179.0,
+            "weight": 75.0,
+            "bmi": 23.41,
+            "goal": "muscle",
+            "diet": "both",
+            "health_conditions": "no",
+            "health_status": "Healthy",
+            "progress_history": [],
+            "food_preferences": []
+        },
+        "7": {
+            "name": "arun tushar",
+            "gender": "male",
+            "height": 180.0,
+            "weight": 70.0,
+            "bmi": 21.6,
+            "goal": "muscle gain",
+            "diet": "both",
+            "health_conditions": "no",
+            "health_status": "Healthy",
+            "progress_history": [],
+            "food_preferences": []
+        },
+        "8": {
+            "name": "Erick",
+            "age": 25,
+            "gender": "Male",
+            "height": 180.0,
+            "weight": 75.0,
+            "bmi": 23.15,
+            "goal": "maintain weight",
+            "Plan_Days": 30
+        },
+        "9": {
+            "Name": "Erick",
+            "Age": 25,
+            "Gender": "Male",
+            "Height_cm": 180.0,
+            "Weight_kg": 75.0,
+            "BMI": 23.15,
+            "Health_Goal": "maintain weight",
+            "Plan_Days": 30
+        },
+        "10": {
+            "Name": "Erick",
+            "Age": 25,
+            "Gender": "Male",
+            "Height_cm": 180.0,
+            "Weight_kg": 75.0,
+            "BMI": 23.15,
+            "Health_Goal": "maintain weight",
+            "Plan_Days": 30
+        },
+        "11": {
+            "Name": "Erick",
+            "Age": 25,
+            "Gender": "Male",
+            "Height_cm": 180.0,
+            "Weight_kg": 75.0,
+            "BMI": 23.15,
+            "Health_Goal": "maintain weight",
+            "Plan_Days": 30
+        },
+        "12": {
+            "Name": "ngyoc",
+            "Age": 45,
+            "Gender": "Female",
+            "Height_cm": 155.0,
+            "Weight_kg": 55.0,
+            "BMI": 22.89,
+            "Health_Goal": "maintain weight",
+            "Plan_Days": 30
+        },
+        "13": {
+            "Name": "ngyoc",
+            "Age": 45,
+            "Gender": "Female",
+            "Height_cm": 155.0,
+            "Weight_kg": 55.0,
+            "BMI": 22.89,
+            "Health_Goal": "maintain weight",
+            "Plan_Days": 30
+        },
+        "14": {
+            "Name": "nyugen",
+            "Age": 35,
+            "Gender": "Female",
+            "Height_cm": 160.0,
+            "Weight_kg": 60.0,
+            "BMI": 23.44,
+            "Health_Goal": "maintain weight",
+            "Plan_Days": 50
+        },
+        "15": {
+            "Name": "neelmowaaaaa",
+            "Age": 40,
+            "Gender": "Male",
+            "Height_cm": 169.0,
+            "Weight_kg": 69.0,
+            "BMI": 24.16,
+            "Health_Goal": "maintain weight",
+            "Plan_Days": 100
+        },
+        "16": {
+            "Name": "",
+            "Age": 1,
+            "Gender": "Male",
+            "Height_cm": 0.0,
+            "Weight_kg": 0.0,
+            "BMI": 0,
+            "Health_Goal": "lose weight",
+            "Plan_Days": 1
+        },
+        "17": {
+            "Name": "mag ",
+            "Age": 30,
+            "Gender": "Male",
+            "Height_cm": 180.0,
+            "Weight_kg": 70.0,
+            "BMI": 21.6,
+            "Health_Goal": "maintain weight",
+            "Plan_Days": 100
+        },
+        "18": {
+            "Name": "mag",
+            "Age": 30,
+            "Gender": "Male",
+            "Height_cm": 150.0,
+            "Weight_kg": 100.0,
+            "BMI": 44.44,
+            "Health_Goal": "lose weight",
+            "Plan_Days": 10
+        },
+        "19": {
+            "Name": "mag",
+            "Age": 30,
+            "Gender": "Male",
+            "Height_cm": 150.0,
+            "Weight_kg": 100.0,
+            "BMI": 44.44,
+            "Health_Goal": "lose weight",
+            "Plan_Days": 10
+        }
+    },
+    "next_record_id": 20
+}
